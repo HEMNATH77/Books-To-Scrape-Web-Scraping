@@ -14,7 +14,7 @@ This project is a Python-based web scraper designed to extract information about
   - [Data Containers](#data-containers)
   - [Scraping Logic](#scraping-logic)
   - [Saving Data](#saving-data)
-- [Usage](#usage)
+
 - [Output](#output)
 
 ---
@@ -126,15 +126,6 @@ df.to_csv("Books Data.csv")
 
 ---
 
-## Usage
-1. Clone or download this repository.
-2. Run the script using:
-   ```bash
-   python scraper.py
-   ```
-3. Check the output in the `Books Data.csv` file.
-
----
 
 ## Output
 The final output is a CSV file containing the scraped data. Example:
