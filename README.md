@@ -145,21 +145,6 @@ The final output is a CSV file containing the scraped data. Example:
 | Tipping the Velvet                  | £53.74 | In stock (20 available) |
 | Soumission                          | £50.10 | In stock (20 available) |
 
----
-
-## Notes
-- Ensure the website structure matches the code logic. If the website changes, the selectors may need updating.
-- Always check the website's terms of service before scraping.
-
----
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed!
-
-
-
-
-
 
 
 
